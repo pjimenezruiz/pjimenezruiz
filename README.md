@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paula Jiménez Ruiz (@pjimenezruiz)
 - 👀 I’m interested in algebra, topology, computer engineering & information technologies
-- 🌱 I’m currently learning at University of Granada, and by myself as well
+- 🌱 I’m currently learning at University of Granada, as well as by myself
 - 💞️ I’m looking to collaborate on any kind of ideas/projects related to previously mentioned fields
 - 📫 How to reach me? paulajimenezruiz03@gmail.com or e.pjimenezruiz@go.ugr.es (only for university related stuff)
 - 😄 Pronouns: she/her
